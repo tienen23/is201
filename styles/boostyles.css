@@ -1,0 +1,23 @@
+img{
+    display:block;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    position: static;
+}
+body{
+    background-color: bisque;
+}
+.tex{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.common{ 
+    background-color: gray;
+        border: solid white;
+
+}
+footer{
+    background-color: brown;
+    text-align: center;
+}
